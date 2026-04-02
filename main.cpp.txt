@@ -1,6 +1,9 @@
 #include<isotream>
+template<typename T>
 int main(){
-
+	std::cout<<"niubi6666"<<std::endl;
+	printf(%d,666);
+	
 
 return 0；
 }
